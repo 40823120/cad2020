@@ -1,1 +1,1 @@
-var tipuesearch = {"pages": [{'title': '簡介', 'text': '\xa0 設計二甲 40823120 范維倫. \xa0  倉儲cad2020 \n \xa0 \xa0 \xa0', 'tags': '', 'url': '簡介.html'}, {'title': 'Topics', 'text': '', 'tags': '', 'url': 'Topics.html'}, {'title': 'W1', 'text': '\xa0零件體積對照表 \n \n', 'tags': '', 'url': 'W1.html'}]};
+var tipuesearch = {"pages": [{'title': '簡介', 'text': '\xa0 設計二甲 40823120 范維倫 \xa0  倉儲cad2020 \n \xa0 \xa0 \xa0', 'tags': '', 'url': '簡介.html'}, {'title': 'Topics', 'text': '', 'tags': '', 'url': 'Topics.html'}, {'title': 'W1', 'text': '\xa0零件體積對照表 \n \n', 'tags': '', 'url': 'W1.html'}]};
